@@ -9,7 +9,7 @@
   ],
   "author": "Marcelo Anjos",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@biomejs/biome": "^1.5.2",
     "@total-typescript/ts-reset": "^0.5.1",
     "@typescript-eslint/eslint-plugin": "^6.19.0",
@@ -19,6 +19,6 @@
     "eslint-plugin-prettier": "^5.1.3",
     "prettier": "^3.2.2",
     "typescript": "^5.3.3",
-    "zzzzz-devdependencies": "github:AngelsProgram/zzzzz-last-dependency#install"
+    "zzzzz-last-dependencies": "github:AngelsProgram/zzzzz-last-dependency#install"
   }
 }
