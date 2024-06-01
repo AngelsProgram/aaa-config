@@ -2,7 +2,7 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "biomejs.biome",
+    // "biomejs.biome",
     "ms-vscode.vscode-typescript-next",
     "yoavbls.pretty-ts-errors"
   ]
